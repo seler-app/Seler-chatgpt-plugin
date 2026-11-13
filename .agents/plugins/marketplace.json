@@ -1,0 +1,20 @@
+{
+  "name": "seler-marketplace",
+  "interface": {
+    "displayName": "Seler"
+  },
+  "plugins": [
+    {
+      "name": "dev-6af759d3c8f48191983de59c816e4080",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Other"
+    }
+  ]
+}
